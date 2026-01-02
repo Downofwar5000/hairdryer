@@ -974,7 +974,8 @@ Located on arm at shoulder height (accessible while standing at device):
    - Supports psychological adjustment to progressive disability
 
 ---
-![idea2](https://github.com/user-attachments/assets/735dd15f-db20-460f-ab1d-0a5773ef5fdb)
+![idea2](https://github.com/user-attachments/assets/b013fef0-8e26-497d-9674-7c6c8547b937)
+
 
 ---
 
