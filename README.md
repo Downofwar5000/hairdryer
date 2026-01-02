@@ -471,6 +471,7 @@ Located on arm at shoulder height (accessible while standing at device):
 - Clear safety stops prevent injury from user confusion
 
 ---
+![idea1](https://github.com/user-attachments/assets/a05dfb1d-4220-44e6-bdf1-e8ef32c39b94)
 
 ---
 
@@ -973,6 +974,7 @@ Located on arm at shoulder height (accessible while standing at device):
    - Supports psychological adjustment to progressive disability
 
 ---
+![idea2](https://github.com/user-attachments/assets/735dd15f-db20-460f-ab1d-0a5773ef5fdb)
 
 ---
 
@@ -1561,6 +1563,7 @@ Located at wheelchair armrest level (accessible to all users):
    - Long-term health benefit beyond simple daily task performance
 
 ---
+![idea3](https://github.com/user-attachments/assets/0a73ae24-1ce7-4b22-b689-707bb05d4f2a)
 
 ---
 
