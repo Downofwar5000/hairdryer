@@ -974,8 +974,8 @@ Located on arm at shoulder height (accessible while standing at device):
    - Supports psychological adjustment to progressive disability
 
 ---
-![idea2](https://github.com/user-attachments/assets/b013fef0-8e26-497d-9674-7c6c8547b937)
 
+![idea2](https://github.com/user-attachments/assets/19d6ef68-d163-4a2c-82e1-e2c185fa4fef)
 
 ---
 
@@ -1564,7 +1564,8 @@ Located at wheelchair armrest level (accessible to all users):
    - Long-term health benefit beyond simple daily task performance
 
 ---
-![idea3](https://github.com/user-attachments/assets/0a73ae24-1ce7-4b22-b689-707bb05d4f2a)
+
+![idea3](https://github.com/user-attachments/assets/68253a9e-4741-481c-bcf1-9bda74c80da7)
 
 ---
 
